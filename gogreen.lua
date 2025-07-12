@@ -1,3 +1,11 @@
+--[[
+CREDITS TO
+- ORGINIAL SCRIPT: https://raw.githubusercontent.com/ImFloriz/Roblox/refs/heads/main/Amber/Washiez.luau
+by github.com/imfloriz - https://guns.lol/bb - realestfloriz on discord
+]]--
+
+
+
 -- please no magik or rosploiter
 -- theres nothing to patch about this anyways
 
