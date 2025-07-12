@@ -1,6 +1,6 @@
 --[[
 CREDITS TO
-- ORGINIAL SCRIPT: https://raw.githubusercontent.com/ImFloriz/Roblox/refs/heads/main/Amber/Washiez.luau
+- ORGINIAL SCRIPT: https://raw.githubusercontent.com/ImFloriz/Roblox/refs/heads/main/Amber/Washiez.luau | imfloriz.github.io/amber
 by github.com/imfloriz - https://guns.lol/bb - realestfloriz on discord
 ]]--
 
